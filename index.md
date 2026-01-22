@@ -14,4 +14,7 @@ Good question.
 
 # The Beginning of a New Me
 
-I added headers to the file, with some breif descriptions.
+![son of the old king, the new king - jupiter](https://github.com/user-attachments/assets/9082212e-ce4e-4d62-9b3e-797e75a18c80)
+
+I added headers to the file, with some breif descriptions, and descriptive image.
+
