@@ -25,6 +25,11 @@ Good question.
 var myVar = "Hello, world!";
 ```
 
-I added headers to the file, with some breif descriptions, descriptive image, and terminal and javascript code snippets.
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
+
+
 
 
